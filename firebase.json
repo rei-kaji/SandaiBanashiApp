@@ -16,5 +16,11 @@
       "npm --prefix \"$PROJECT_DIR\" run build"
     ],
     "runtime": "nodejs14"
+  },
+  "emulators": {
+    "hosting": {
+      "host": "HOST",
+      "port": "PORT"
+    }
   }
 }

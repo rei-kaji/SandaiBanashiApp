@@ -11,11 +11,13 @@
     "logs": "firebase functions:log"
   },
   "dependencies": {
+    "firebase": "^9.15.0",
     "firebase-admin": "^9.4.2",
     "firebase-functions": "^3.13.1",
     "next": "latest",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-firebaseui": "^6.0.0"
   },
   "devDependencies": {
     "firebase-functions-test": "^0.2.3",
